@@ -1,3 +1,5 @@
-for j in range(10)
-for i in range(10): 
-  print(i) 
+class Personne : 
+    def __init__(self, nom, age):
+        self.nom = nom
+        self.age = age
+
